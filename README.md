@@ -3,10 +3,11 @@
 
 ---
 
-## 📊 Estado del repositorio
-| Lenguaje | Commits | Último Commit | Tamaño | Licencia |
-|----------|---------|---------------|--------|----------|
-| 🐍 Python | ✔️ Activo | Hace X horas | 📂 Pequeño | MIT |
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Commits](https://badgen.net/github/commits/Ken656ny/TECNOLOGIAS_EMERGENTES)
+![Last Commit](https://img.shields.io/github/last-commit/Ken656ny/TECNOLOGIAS_EMERGENTES?color=green)
+![Repo Size](https://img.shields.io/github/repo-size/Ken656ny/TECNOLOGIAS_EMERGENTES?color=orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
