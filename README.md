@@ -1,26 +1,57 @@
-# 📘 Proyecto de Matemáticas
-
-Bienvenido a este repositorio donde exploramos conceptos y operaciones matemáticas con **Python**.  
-El objetivo es practicar programación mientras resolvemos problemas de aritmética, fracciones y más.  
+# 📘 Matemáticas  
+**by Cristhian U**
 
 ---
 
-## ✨ Funcionalidades
+## 📊 Estado del repositorio
+| Lenguaje | Commits | Último Commit | Tamaño | Licencia |
+|----------|---------|---------------|--------|----------|
+| 🐍 Python | ✔️ Activo | Hace X horas | 📂 Pequeño | MIT |
+
+---
+
+## 📘 Descripción
+Bienvenido al repositorio **Matemáticas**.  
+Este proyecto tiene como objetivo practicar **operaciones matemáticas** mediante programación en **Python**, incluyendo enteros, comparaciones, fracciones y más, con un menú interactivo.  
+
+---
+
+## 📂 Estructura del Proyecto
+El repositorio incluye:  
+
+- **`main.py`** → Código principal con el menú interactivo.  
+- **`README.md`** → Documentación del proyecto.  
+
+---
+
+## 🧮 Funcionalidades
 - ➕ Resolver operaciones con **enteros**  
-- ⚖️ Hacer **comparaciones** (>, <, =)  
+- ⚖️ Hacer **comparaciones** (`>`, `<`, `=`)  
 - 📊 **Ordenar listas de números**  
-- 🧮 Calcular con **fracciones** usando `Fraction`  
-- 📌 Menú interactivo para elegir opciones  
+- 🧩 Resolver **fracciones exactas** con `Fraction`  
+- Menú interactivo para elegir opciones  
 
 ---
 
-## 🛠️ Tecnologías utilizadas
-- [Python 3](https://www.python.org/) 🐍
+## 📜 Historial de Cambios
+| Commit ID | Descripción | Tiempo |
+|-----------|-------------|--------|
+| `xxxxx`   | Versión inicial del menú de operaciones | Hace X horas |
+| `xxxxx`   | Corrección en manejo de fracciones | Hace X horas |
+| `xxxxx`   | Documentación actualizada (README) | Hace X horas |
 
 ---
 
-## 🚀 Ejemplo de uso
+## ⚙️ Requisitos
+Antes de ejecutar el programa, asegúrate de tener instalado:  
 
+- **Python 3.10+**  
+
+No requiere librerías externas salvo `fractions` (incluido en la librería estándar de Python).  
+
+---
+
+## 🚀 Ejemplo de Ejecución
 ```bash
 --- MENÚ PRINCIPAL ---
 1. Resolver operaciones con enteros
