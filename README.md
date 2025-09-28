@@ -49,6 +49,7 @@ Antes de ejecutar el programa, asegúrate de tener instalado:
 - **Python 3.10+**  
 
 No requiere librerías externas salvo `fractions` (incluido en la librería estándar de Python).  
+para las fracciones se necesita la palabra clave Fraction (con la F mayuscula)
 
 ---
 
