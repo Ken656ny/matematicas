@@ -55,14 +55,14 @@ para las fracciones se necesita la palabra clave Fraction (con la F mayuscula)
 
 ## 🚀 Ejemplo de Ejecución
 ```bash
---- MENÚ PRINCIPAL ---
-1. Resolver operaciones con enteros
-2. Resolver comparaciones (> , < , =)
-3. Ordenar lista de números
-4. Resolver fracciones (usando Fraction)
-5. Salir
-Elige una opción: 4
+En muchos programas (sistemas de inventario, contabilidad básica o gestión escolar) se necesita trabajar con números enteros para cálculos exactos, como contar productos, registrar alumnos o sumar valores sin decimales. Si no se validan correctamente los datos de entrada, el sistema puede aceptar valores inválidos y producir errores. Tu programa asegura que los cálculos se hagan únicamente con enteros válidos, evitando inconsistencias. el programa asegura que los cálculos se hagan únicamente con enteros válidos, evitando inconsistencias.
+usando las metricas basicas con funciones  (+,-,/,:)
 
- Digita una operación con fracciones (ejemplo: Fraction(1,2) + Fraction(3,4))
-Operación: Fraction(3,10) + Fraction(2,5)
-Resultado: 7/10  (decimal: 0.7)
+En múltiples aplicaciones (sistemas de calificaciones, software financiero o algoritmos de recomendación) es necesario comparar valores para tomar decisiones. Un mal manejo de comparaciones puede llevar a resultados incorrectos, como clasificar mal un estudiante o aprobar transacciones erróneas. el programa asegura que las comparaciones se realicen de forma precisa, garantizando la lógica correcta en la toma de decisiones.
+uso de metricas mayor que (>) menor que (<) e igual(=)
+
+En muchos sistemas (bases de datos, reportes de ventas o aplicaciones de ranking) es fundamental organizar los datos de forma ascendente o descendente. Si el algoritmo de ordenamiento no es eficiente, al manejar grandes volúmenes de datos puede volverse lento y poco usable. el programa resuelve este problema aplicando un orden correcto y eficiente a las listas, facilitando la visualización y análisis de la información
+usando la operancion order,
+
+En muchos programas (educativos, contables o de simulación) se necesita trabajar con fracciones exactas, no solo decimales aproximados. Los decimales pueden generar errores de precisión (por ejemplo, 0.1 + 0.2 = 0.30000000000004 en Python). el programa, al usar Fraction, asegura resultados exactos, evitando estos problemas en contextos donde la precisión matemática es crítica.
+dando calculos exactos en function de la fraccion con fraction
